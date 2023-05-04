@@ -1,0 +1,9 @@
+body{
+    background-color:powderblue;
+    color:blue;
+}
+
+#picture{
+    max-width: 740px;
+    max-height: 528px;
+}

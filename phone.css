@@ -1,0 +1,16 @@
+
+    body {
+        background-color:plum;
+        color: black;
+    }
+
+    #picture {
+        max-width: 210px;
+        max-height: 145px;
+    }
+
+    .members img{
+        max-width: 210px;
+        max-height: 130px;
+    }
+  

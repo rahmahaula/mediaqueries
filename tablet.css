@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+    color:brown;
+}
+
+#picture{
+    max-width: 640px;
+    max-height: 428px;
+}
+
+.members img{
+    max-width: 310px;
+    max-height: 200px;
+}
